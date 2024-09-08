@@ -1,0 +1,4 @@
+Flask
+numpy
+google-generativeai
+gunicorn
